@@ -1,1 +1,1 @@
-web: gunicorn tecweb_projeto_exemplo.wsgi
+web: gunicorn editora.wsgi
